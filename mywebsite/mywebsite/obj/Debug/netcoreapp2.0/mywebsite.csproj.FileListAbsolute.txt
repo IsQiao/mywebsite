@@ -1,0 +1,11 @@
+E:\projects\mywebsite\mywebsite\mywebsite\bin\Debug\netcoreapp2.0\mywebsite.deps.json
+E:\projects\mywebsite\mywebsite\mywebsite\bin\Debug\netcoreapp2.0\mywebsite.runtimeconfig.json
+E:\projects\mywebsite\mywebsite\mywebsite\bin\Debug\netcoreapp2.0\mywebsite.runtimeconfig.dev.json
+E:\projects\mywebsite\mywebsite\mywebsite\bin\Debug\netcoreapp2.0\mywebsite.dll
+E:\projects\mywebsite\mywebsite\mywebsite\bin\Debug\netcoreapp2.0\mywebsite.pdb
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.csprojResolveAssemblyReference.cache
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.csproj.CoreCompileInputs.cache
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.AssemblyInfoInputs.cache
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.AssemblyInfo.cs
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.dll
+E:\projects\mywebsite\mywebsite\mywebsite\obj\Debug\netcoreapp2.0\mywebsite.pdb
